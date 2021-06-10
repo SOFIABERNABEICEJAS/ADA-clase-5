@@ -1,0 +1,55 @@
+
+html{
+    background-color: teal;
+}
+
+body{
+    height: 350px;
+    width: 450px;
+    background-color: white;
+    margin-top: 60px;
+    margin-left: 400px;
+    margin-bottom: px;
+    border-radius: 20px;
+    padding-left: 25px;
+    padding-top: 20px;
+    font-size: 15px;
+}
+
+h1{
+    font-size: 18px;
+    margin-left: 25px;
+}
+
+.caja1{
+    margin:10px;
+    padding: 15px;
+    height: 55px;
+    width: 350px;
+    border-radius: 10px;
+    border:1px solid rgb(133, 133, 138);
+    border-left: 5px solid palevioletred;
+    
+}
+
+.caja2{
+    margin:10px;
+    padding: 15px;
+    height: 55px;
+    width: 350px;
+    border-radius: 10px;
+    border:1px solid rgb(133, 133, 138);
+    border-left: 5px solid purple;
+    
+}
+
+.caja3{
+    margin:10px;
+    padding: 15px;
+    height: 55px;
+    width: 350px;
+    border-radius: 10px;
+    border:1px solid rgb(133, 133, 138);
+    border-left: 5px solid orangered;
+    
+}

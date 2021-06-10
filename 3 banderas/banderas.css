@@ -1,0 +1,130 @@
+
+.contenedorBanderas{
+    width: 100%;
+    height: 100%;
+    background-color:transparent;
+    
+}
+
+.argentina{
+    width: 300px;
+    height: 200px;
+    margin:30px;
+  
+}
+
+
+.celeste{
+    width:300px;
+    height:65px;
+    background-color: rgb(94, 205, 241);
+    margin:0px;
+    padding:0px;
+}
+
+.blanco{
+    width:300px;
+    height: 65px;
+    background-color:white;
+    margin:0px;
+    padding:0px;
+}
+.mexico{
+    width: 300px;
+    height: 200px;
+    margin:30px;
+
+    }
+
+.verdeMexico{
+    width:300px;
+    height: 65px;
+    background-color:green;
+    margin:0px;
+    padding:0px;
+
+}
+.blancoMexico{
+    width:300px;
+    height: 65px;
+    background-color:white;
+    margin:0px;
+    padding:0px;
+ }
+
+.rojaMexico{
+    width:300px;
+    height: 65px;
+    background-color:red;
+    margin:0px;
+    padding:0px;
+ }
+
+ .francia{
+    width: 300px;
+    height: 200px;
+    margin:30px;
+
+}
+ .azulFrancia{
+    width:300px;
+    height: 65px;
+    background-color:blue;
+    margin:0px;
+    padding:0px;
+
+ }
+ .blancoFrancia{
+    width:300px;
+    height: 65px;
+    background-color:white;
+    margin:0px;
+    padding:0px;
+     
+ }
+ .rojaFrancia{
+    width:300px;
+    height: 65px;
+    background-color:red;
+    margin:0px;
+    padding:0px;
+
+ }
+
+ .alemania{
+    width: 300px;
+    height: 200px;
+    margin:30px;
+ }
+
+.negro{
+    width:300px;
+    height: 65px;
+    background-color:black;
+    margin:0px;
+    padding:0px;
+}
+.rojaalemania{
+    width:300px;
+    height: 65px;
+    background-color:red;
+    margin:0px;
+    padding:0px;
+ }
+
+.amarilla{
+    width:300px;
+    height: 65px;
+    background-color:yellow;
+    margin:0px;
+    padding:0px;
+
+}
+
+
+
+
+
+
+
+

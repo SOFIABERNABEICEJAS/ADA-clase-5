@@ -1,0 +1,29 @@
+html{
+    background-color: rgb(225, 234, 241);
+}
+.conteiner{
+    font-size: 15px;
+    background-color: white;
+    color:black;
+    margin: 300px;
+    padding: 50px;
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+}
+
+
+.azul{
+    color:rgb(85, 101, 151)
+}
+.conteinerChico{
+    background-color: rgb(124, 124, 235);
+    width: 90px;
+    height: 35px;
+    border-radius: 10px;
+    padding-top:15px;
+    padding-left: 30px;
+    margin-left: 80px;
+    margin-top: 50px;
+
+}

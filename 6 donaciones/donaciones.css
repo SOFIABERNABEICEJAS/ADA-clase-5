@@ -1,0 +1,60 @@
+body{
+    background-color: palegoldenrod;
+}
+.contenedor{
+    height: 200px;
+    width: 350px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 60px;
+    margin-left: 400px;
+    padding: 40px;
+    
+}
+
+.caja1{
+    margin-top: 30px;
+    display: inline-block;
+    height: 30px;
+    width: 40px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 25px;
+    
+}
+.caja2{
+    display: inline-block;
+    padding-top: 10px;
+    padding-left: 10px;
+    height: 30px;
+    width: 50px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 25px;
+    margin-top: 30px;
+    border-color:black;
+
+}
+.caja3{
+    
+    display: inline-block;
+    padding-top: 10px;
+    padding-left: 10px;
+    background-color: rgb(142, 186, 253);
+    height: 30px;
+    width: 50px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 25px;
+    margin-top: 30px;
+    border-color:black;
+}
+.boton{
+    padding-top: 10px;
+    padding-left: 90px;
+    background-color: rgb(142, 186, 253);
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+
+}
